@@ -1,6 +1,6 @@
 body{
 	background: url('http://www.solidbackgrounds.com/images/1920x1080/1920x1080-light-blue-solid-color-background.jpg');
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Spirax', cursive;
 	font-size: 25px;
 }
 
@@ -11,7 +11,7 @@ header{
 .btn-primary,.reset{
 	background-color: #313477;
 	color: white;
-	font-family: 'Sigmar One', sans-serif;
+	font-family: 'Spirax', cursive;
 	font-size: 30px;
 	padding: 20px;
 	margin-top: 100px;
@@ -28,7 +28,7 @@ header{
 }
 
 h2, #message, #finalMessage{
-	font-family: Sigmar One;
+	font-family: 'Spirax', cursive;
 }
 
 .thisChoice:hover{

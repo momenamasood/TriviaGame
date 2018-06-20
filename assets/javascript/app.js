@@ -8,7 +8,9 @@ var triviaQuestions = [{
 	answer: 1
 },{
 	question: "In the movie Tangled, Flynn Rider is wanted dead or alive according to his wanted poster because he's a...",
-	answerList: ["Bandit", "Thief", "Treasonist", "Robber"]
+    answerList: ["Bandit", "Thief", "Treasonist", "Robber"],
+    answer: 1
+
 },{
 	question: "Who was the first Pixar character added to the Disney Princess line-up?",
 	answerList: ["Jessie", "Repunzel", "Merida", "Elsa"],
